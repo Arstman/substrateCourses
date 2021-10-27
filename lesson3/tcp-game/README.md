@@ -51,9 +51,9 @@ when the connects successfully, the client  side will  show a welcome informatio
 
 ### client side (by telnet)
 
-![client side screenshot](https://raw.githubusercontent.com/Arstman/tcp-guess-game-rust/main/screenshots/ch3_client_sid.png)
+![client side screenshot](https://raw.githubusercontent.com/Arstman/substrateCourses/main/lesson3/tcp-game/screenshots/ch3_client_sid.png)
 
 ### server side
 
-![server side screenshot](https://github.com/Arstman/tcp-guess-game-rust/blob/main/screenshots/ch3_server_sid.png)
+![server side screenshot](https://raw.githubusercontent.com/Arstman/substrateCourses/main/lesson3/tcp-game/screenshots/ch3_server_sid.png)
 
