@@ -1,0 +1,11 @@
+/home/aaron/life/dev/rust/tcpserver/target/debug/deps/ppv_lite86-c2f13a79d8f81ae2.rmeta: /home/aaron/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/ppv-lite86-0.2.14/src/lib.rs /home/aaron/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/ppv-lite86-0.2.14/src/soft.rs /home/aaron/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/ppv-lite86-0.2.14/src/types.rs /home/aaron/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/ppv-lite86-0.2.14/src/x86_64/mod.rs /home/aaron/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/ppv-lite86-0.2.14/src/x86_64/sse2.rs
+
+/home/aaron/life/dev/rust/tcpserver/target/debug/deps/libppv_lite86-c2f13a79d8f81ae2.rlib: /home/aaron/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/ppv-lite86-0.2.14/src/lib.rs /home/aaron/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/ppv-lite86-0.2.14/src/soft.rs /home/aaron/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/ppv-lite86-0.2.14/src/types.rs /home/aaron/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/ppv-lite86-0.2.14/src/x86_64/mod.rs /home/aaron/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/ppv-lite86-0.2.14/src/x86_64/sse2.rs
+
+/home/aaron/life/dev/rust/tcpserver/target/debug/deps/ppv_lite86-c2f13a79d8f81ae2.d: /home/aaron/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/ppv-lite86-0.2.14/src/lib.rs /home/aaron/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/ppv-lite86-0.2.14/src/soft.rs /home/aaron/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/ppv-lite86-0.2.14/src/types.rs /home/aaron/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/ppv-lite86-0.2.14/src/x86_64/mod.rs /home/aaron/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/ppv-lite86-0.2.14/src/x86_64/sse2.rs
+
+/home/aaron/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/ppv-lite86-0.2.14/src/lib.rs:
+/home/aaron/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/ppv-lite86-0.2.14/src/soft.rs:
+/home/aaron/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/ppv-lite86-0.2.14/src/types.rs:
+/home/aaron/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/ppv-lite86-0.2.14/src/x86_64/mod.rs:
+/home/aaron/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/ppv-lite86-0.2.14/src/x86_64/sse2.rs:

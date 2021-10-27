@@ -1,0 +1,11 @@
+/home/aaron/life/dev/rust/tcpserver/target/debug/deps/getrandom-3df1ebff68e17f0b.rmeta: /home/aaron/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/getrandom-0.2.3/src/lib.rs /home/aaron/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/getrandom-0.2.3/src/error.rs /home/aaron/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/getrandom-0.2.3/src/util.rs /home/aaron/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/getrandom-0.2.3/src/error_impls.rs /home/aaron/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/getrandom-0.2.3/src/util_libc.rs /home/aaron/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/getrandom-0.2.3/src/use_file.rs /home/aaron/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/getrandom-0.2.3/src/linux_android.rs
+
+/home/aaron/life/dev/rust/tcpserver/target/debug/deps/getrandom-3df1ebff68e17f0b.d: /home/aaron/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/getrandom-0.2.3/src/lib.rs /home/aaron/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/getrandom-0.2.3/src/error.rs /home/aaron/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/getrandom-0.2.3/src/util.rs /home/aaron/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/getrandom-0.2.3/src/error_impls.rs /home/aaron/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/getrandom-0.2.3/src/util_libc.rs /home/aaron/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/getrandom-0.2.3/src/use_file.rs /home/aaron/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/getrandom-0.2.3/src/linux_android.rs
+
+/home/aaron/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/getrandom-0.2.3/src/lib.rs:
+/home/aaron/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/getrandom-0.2.3/src/error.rs:
+/home/aaron/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/getrandom-0.2.3/src/util.rs:
+/home/aaron/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/getrandom-0.2.3/src/error_impls.rs:
+/home/aaron/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/getrandom-0.2.3/src/util_libc.rs:
+/home/aaron/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/getrandom-0.2.3/src/use_file.rs:
+/home/aaron/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/getrandom-0.2.3/src/linux_android.rs:

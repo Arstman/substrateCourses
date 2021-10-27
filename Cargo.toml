@@ -1,0 +1,7 @@
+[workspace]
+members = [
+  "lesson3/tcp-game",
+  "lesson4/traffic-light",
+  "lesson4/slice-sum",
+  "lesson4/area-printer"
+]
