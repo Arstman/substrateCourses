@@ -2,6 +2,10 @@
 name = "slice-sum"
 version = "0.1.0"
 edition = "2021"
+authors = ["Aaron 彭亚伦 a@iy.rs"]
+license = "MIT"
+repository = "https://github.com/Arstman/substrateCourses/tree/main/lesson4/slice-sum"
+
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
