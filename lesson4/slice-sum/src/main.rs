@@ -3,7 +3,7 @@ fn main() {
     //   overflow and return None.
     let sum_a = [1u32, 2, 4, 5];
     let sum_b = [8u32; 20];
-    let sum_none = [1, 32, 64, 128, 4294967295];
+    let sum_none = [1_u32, 4294967295, 32, 64, 128];
 
     println!("The Sum of slice sum_a is {:?}", checked_sum(&sum_a));
     println!("The Sum of slice sum_b is {:?}", checked_sum(&sum_b));
@@ -19,5 +19,5 @@ fn checked_sum(c: &[u32]) -> Option<u32> {
             None => return None,
         }
     }
-    return Some(sum);
+    Some(sum)
 }

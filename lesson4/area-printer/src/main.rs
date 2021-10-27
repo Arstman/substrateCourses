@@ -59,13 +59,13 @@ impl Area<f32> for Triangle<f32> {
 // impl Area for Square in both u32 and f32
 impl Area<u32> for Square<u32> {
     fn get_area(&self) -> u32 {
-        return self.width * self.length;
+        self.width * self.length
     }
 }
 
 impl Area<f32> for Square<f32> {
     fn get_area(&self) -> f32 {
-        return self.width * self.length;
+        self.width * self.length
     }
 }
 
